@@ -60,8 +60,8 @@ This project focuses on analyzing Electric Vehicle (EV) sales trends across Indi
 - Specialized segments contribute a smaller share of total sales.
   
 ## 📂 Project Files
-- 📊 Power BI Dashboard (.pbix)
-- 📄 Dataset (.csv/.xlsx)
+- 📊 [Power BI Dashboard](Electric_vehicle_Analysis.pbix)
+- 📄 [Dataset](electric_cleaned.csv)
 
 ## 📊 Key Insights
 - 🥇 Uttar Pradesh leads EV sales among all states.
